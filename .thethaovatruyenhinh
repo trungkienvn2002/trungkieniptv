@@ -133,7 +133,8 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392632
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418199
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/clippers/nba-tv-logo.png" group-title="US Sports",NBA TV
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=8246&extension=ts&play_token=TaDzsyNle4
- 
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV International" tvg-logo="https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/clippers/nba-tv-logo.png" group-title="US Sports",NBA TV
+https://epg.pm/stream/ddc9231b07de5c85b71c745c9112b816cf6fb15c690bec644ed330441dcb9a33.ctv
  
  
  
